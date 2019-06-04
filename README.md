@@ -27,7 +27,7 @@ Items:
 
 # Legal
 ### License
-esx_esx_farmoranges - Farm Oranges
+esx_farmoranges - Farm Oranges
 
 Copyright (C) 2015-2019 Jordan
 
