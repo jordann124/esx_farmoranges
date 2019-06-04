@@ -1,9 +1,9 @@
 Config              = {}
-Config.MarkerType   = 1
+Config.MarkerType   = 0
 Config.DrawDistance = 100.0
-Config.ZoneSize     = {x = 5.0, y = 5.0, z = 3.0}
-Config.MarkerColor  = {r = 0, g = 0, b = 0}
-Config.ShowBlips   = true  -- Blip Map
+Config.ZoneSize     = {x = 1.0, y = 2.0, z = 1.0}
+Config.MarkerColor  = {r = 255, g = 135, b = 0}
+Config.ShowBlips   = true  -- Blip Mapa
 
 Config.RequiredCopsKoda  = 0
 
